@@ -10,10 +10,6 @@
 
 <img align="center" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;"> 
 
-
-
-
----
 [![](https://visitcount.itsvg.in/api?id=puneeth011&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
