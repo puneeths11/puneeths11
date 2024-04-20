@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web development.<br>🌱 I’m currently learning JAVA (DSA), Exploring Azure Services<br>👯 I’m looking to collaborate on Software Development, Open Source<br>💬 Ask me about Web Development <br>
+🔭 I’m currently working on Full Stack Web development.<br>🌱 I’m currently learning C++ (DSA), Exploring Azure Services<br>👯 I’m looking to collaborate on Software Development, Open Source<br>💬 Ask me about Web Development <br>
 
 
 ## 🌐 Socials:
